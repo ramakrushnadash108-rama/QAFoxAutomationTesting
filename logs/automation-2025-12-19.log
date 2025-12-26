@@ -1,0 +1,55 @@
+15:18:03.001 [main] INFO  testCases.T001_AccountRegistraionTest - ****** Stating T001_AccountRegistraionTest***
+15:18:03.372 [main] ERROR testCases.T001_AccountRegistraionTest - Test Failed...
+15:18:03.375 [main] DEBUG testCases.T001_AccountRegistraionTest - Debug logs...
+15:58:00.907 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Durga\eclipse-workspace\HybridFramework\crossBrowserTestng.xml"
+15:58:02.264 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Durga\eclipse-workspace\HybridFramework\crossBrowserTestng.xml
+
+15:58:16.544 [main] INFO  testCases.T001_AccountRegistraionTest - ****** Stating T001_AccountRegistraionTest***
+15:58:16.808 [main] ERROR testCases.T001_AccountRegistraionTest - Test Failed...
+15:58:16.808 [main] DEBUG testCases.T001_AccountRegistraionTest - Debug logs...
+15:58:35.276 [main] INFO  testCases.T001_AccountRegistraionTest - ****** Stating T001_AccountRegistraionTest***
+15:58:35.280 [main] ERROR testCases.T001_AccountRegistraionTest - Test Failed...
+15:58:35.281 [main] DEBUG testCases.T001_AccountRegistraionTest - Debug logs...
+16:00:10.879 [main] INFO  testCases.T001_AccountRegistraionTest - ****** Stating T001_AccountRegistraionTest***
+16:00:10.934 [main] ERROR testCases.T001_AccountRegistraionTest - Test Failed...
+16:00:10.934 [main] DEBUG testCases.T001_AccountRegistraionTest - Debug logs...
+16:01:20.648 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Durga\eclipse-workspace\HybridFramework\paralleBrowserTestng.xml"
+16:01:21.777 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Durga\eclipse-workspace\HybridFramework\paralleBrowserTestng.xml
+
+16:01:46.063 [TestNG-tests-1] INFO  testCases.T001_AccountRegistraionTest - ****** Stating T001_AccountRegistraionTest***
+16:01:46.068 [TestNG-tests-2] INFO  testCases.T001_AccountRegistraionTest - ****** Stating T001_AccountRegistraionTest***
+16:01:46.246 [TestNG-tests-1] ERROR testCases.T001_AccountRegistraionTest - Test Failed...
+16:01:46.246 [TestNG-tests-1] DEBUG testCases.T001_AccountRegistraionTest - Debug logs...
+16:01:46.256 [TestNG-tests-2] ERROR testCases.T001_AccountRegistraionTest - Test Failed...
+16:01:46.257 [TestNG-tests-2] DEBUG testCases.T001_AccountRegistraionTest - Debug logs...
+16:01:59.670 [TestNG-tests-3] INFO  testCases.T001_AccountRegistraionTest - ****** Stating T001_AccountRegistraionTest***
+16:01:59.671 [TestNG-tests-3] ERROR testCases.T001_AccountRegistraionTest - Test Failed...
+16:01:59.671 [TestNG-tests-3] DEBUG testCases.T001_AccountRegistraionTest - Debug logs...
+16:18:34.084 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Durga\eclipse-workspace\HybridFramework\master.xml"
+16:18:37.065 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Durga\eclipse-workspace\HybridFramework\master.xml
+
+22:33:29.596 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Durga\eclipse-workspace\HybridFramework\master.xml"
+22:33:30.562 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Durga\eclipse-workspace\HybridFramework\master.xml
+
+22:33:41.322 [main] INFO  testCases.T001_AccountRegistraionTest - ****** Stating T001_AccountRegistraionTest***
+22:33:41.412 [main] ERROR testCases.T001_AccountRegistraionTest - Test Failed...
+22:33:41.412 [main] DEBUG testCases.T001_AccountRegistraionTest - Debug logs...
+22:38:01.417 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Durga\AppData\Local\Temp\testng-eclipse-709599533\testng-customsuite.xml"
+22:38:02.261 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+22:38:02.268 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+22:38:02.272 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:38:02.272 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:38:02.274 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:38:02.274 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:38:02.277 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:38:02.278 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:38:02.290 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+22:38:02.316 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 25 ms.
+22:38:02.319 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:38:02.320 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+22:38:02.322 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:38:02.322 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.

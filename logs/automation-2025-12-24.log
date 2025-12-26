@@ -1,0 +1,60 @@
+13:27:33.244 [main] INFO  testCases.TC002_LoginTest - **** Login successful***
+13:27:34.249 [main] INFO  testCases.TC002_LoginTest - ****My Account page is displayed***
+13:27:34.250 [main] INFO  testCases.TC002_LoginTest - *******Finished TC_002_LoginTest*****
+15:23:08.301 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Durga\eclipse-workspace\HybridFramework\gropping.xml"
+15:23:09.224 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Durga\eclipse-workspace\HybridFramework\gropping.xml
+
+15:23:25.125 [main] INFO  testCases.TC001_AccountRegistraionTest - ****** Stating T001_AccountRegistraionTest***
+15:23:35.491 [main] INFO  testCases.TC001_AccountRegistraionTest - ****FinishT001_AccountRegistraionTest***
+15:23:42.787 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_LoinTest***
+15:23:45.764 [main] INFO  testCases.TC002_LoginTest - **** Login successful***
+15:23:46.998 [main] INFO  testCases.TC002_LoginTest - ****My Account page is displayed***
+15:23:46.999 [main] INFO  testCases.TC002_LoginTest - *******Finished TC_002_LoginTest*****
+15:27:12.056 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Durga\eclipse-workspace\HybridFramework\gropping.xml"
+15:27:13.143 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Durga\eclipse-workspace\HybridFramework\gropping.xml
+
+15:27:23.701 [main] INFO  testCases.TC001_AccountRegistraionTest - ****** Stating T001_AccountRegistraionTest***
+15:27:29.908 [main] INFO  testCases.TC001_AccountRegistraionTest - ****FinishT001_AccountRegistraionTest***
+15:27:36.997 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_LoinTest***
+15:27:40.777 [main] INFO  testCases.TC002_LoginTest - **** Login successful***
+15:27:41.996 [main] INFO  testCases.TC002_LoginTest - ****My Account page is displayed***
+15:27:41.996 [main] INFO  testCases.TC002_LoginTest - *******Finished TC_002_LoginTest*****
+15:31:00.305 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Durga\eclipse-workspace\HybridFramework\gropping.xml"
+15:31:01.281 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Durga\eclipse-workspace\HybridFramework\gropping.xml
+
+15:31:09.868 [main] INFO  testCases.TC001_AccountRegistraionTest - ****** Stating T001_AccountRegistraionTest***
+15:31:19.185 [main] INFO  testCases.TC001_AccountRegistraionTest - ****FinishT001_AccountRegistraionTest***
+15:31:25.712 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_LoinTest***
+15:31:29.294 [main] INFO  testCases.TC002_LoginTest - **** Login successful***
+15:31:30.246 [main] INFO  testCases.TC002_LoginTest - ****My Account page is displayed***
+15:31:30.246 [main] INFO  testCases.TC002_LoginTest - *******Finished TC_002_LoginTest*****
+15:36:37.724 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Durga\eclipse-workspace\HybridFramework\gropping.xml"
+15:36:38.489 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Durga\eclipse-workspace\HybridFramework\gropping.xml
+
+15:36:50.314 [main] INFO  testCases.TC001_AccountRegistraionTest - ****** Stating T001_AccountRegistraionTest***
+15:37:02.275 [main] INFO  testCases.TC001_AccountRegistraionTest - ****FinishT001_AccountRegistraionTest***
+15:37:11.729 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_LoinTest***
+15:37:16.197 [main] INFO  testCases.TC002_LoginTest - **** Login successful***
+13:44:17.199 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Durga\eclipse-workspace\HybridFramework\master.xml"
+13:44:18.726 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Durga\eclipse-workspace\HybridFramework\master.xml
+
+13:44:45.244 [main] INFO  testCases.TC001_AccountRegistraionTest - ****** Stating T001_AccountRegistraionTest***
+13:44:53.340 [main] INFO  testCases.TC001_AccountRegistraionTest - ****FinishT001_AccountRegistraionTest***
+13:45:05.883 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_LoinTest***
+13:45:16.302 [main] INFO  testCases.TC002_LoginTest - **** Login successful***
+13:45:51.852 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Durga\eclipse-workspace\HybridFramework\master.xml"
+13:45:53.082 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Durga\eclipse-workspace\HybridFramework\master.xml
+
+13:46:12.786 [main] INFO  testCases.TC001_AccountRegistraionTest - ****** Stating T001_AccountRegistraionTest***
+13:46:19.471 [main] INFO  testCases.TC001_AccountRegistraionTest - ****FinishT001_AccountRegistraionTest***
+13:46:36.616 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_LoinTest***
+13:46:42.634 [main] INFO  testCases.TC002_LoginTest - **** Login successful***
+13:46:44.470 [main] INFO  testCases.TC002_LoginTest - ****My Account page is displayed***
+13:46:44.470 [main] INFO  testCases.TC002_LoginTest - *******Finished TC_002_LoginTest*****
+13:51:07.725 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Durga\eclipse-workspace\HybridFramework\master.xml"
